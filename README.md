@@ -1,5 +1,3 @@
-# PS4-Controller-Raspberry-Pi-Bluetooth
-
 # Connect a PS4 Controller to Raspberry Pi via Bluetooth (with Auto-Reconnect)
 
 This guide explains how to connect a **PS4 DualShock controller** to a **Raspberry Pi** via **Bluetooth** using the **Blueman GUI**, and how to make it **auto-reconnect on boot** — so you never have to re-pair it again.
